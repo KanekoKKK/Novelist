@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2143.3335
     height: 1300.6667
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 492}
   m_MaxSize: {x: 18097, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 89
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 91
+  controlID: 17
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 92
+  controlID: 18
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,14 +325,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\KenyaKKK\pict\Novelist\Novelist_Prototype
+  m_LastProjectPath: C:\Users\KenyaKKK\pict\Novelist\4\Novelist_Prototype
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: be590000
-    m_LastClickedID: 22974
-    m_ExpandedIDs: 00000000b659000000ca9a3b
+    m_SelectedIDs: da570000
+    m_LastClickedID: 22490
+    m_ExpandedIDs: 00000000d257000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b6590000
+    m_ExpandedIDs: 00000000d2570000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -492,7 +492,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: ccebffff0aecffff74ecffffb0ecfffff0ecffff68edffffc4edfffffeedffff3aeeffff74eeffffb0eefffff4eeffff2eefffff6aefffffa4efffffe0efffff1ef0ffff62f0ffff9ef0ffffdaf0ffff16f1ffff52f1ffff8ef1ffffccf1ffff10f2ffff4af2ffffa6f2ffffeaf2ffff22f3ffff30f4ffff7cf4ffffb4f4ffff32f7fffff0f9ffff
+      m_ExpandedIDs: 20f9ffff2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -826,11 +826,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.2750325, y: 0.62279904, z: -0.24861696, w: 0.68897164}
     speed: 2
-    m_Value: {x: 0.2760637, y: 0.62242115, z: -0.24954917, w: 0.6885536}
+    m_Value: {x: 0.27503252, y: 0.62279904, z: -0.24861698, w: 0.6889717}
   m_Size:
     m_Target: 39.275047
     speed: 2
-    m_Value: 41.1257
+    m_Value: 39.275047
   m_Ortho:
     m_Target: 0
     speed: 2
