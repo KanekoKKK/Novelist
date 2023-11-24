@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/BasisScene.unity
+- path: Assets/Scenes/ShopScene_Goto.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
