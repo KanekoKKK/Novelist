@@ -29,6 +29,6 @@ commit to first を押す。さらに push origin (右上)を押すと
 (ブラウザ版を開くとわかる)
 
 (マージ)
-blanch 変更で main にする。
-もう一度 blanch を開き、 pull requests から下のボタンを押す
-自分の blanch を選択し、 merge すると main にも反映されるという作り
+github にno local change になっている
+青いボタンの逆三角を押し create pull request を押す
+ページに飛ぶのでそこからタイトルと説明を追加しrequestを送れる
