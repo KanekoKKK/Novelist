@@ -24,7 +24,9 @@ push
 作業が終わったら、保存して unity を終了する。(ここ大事らしい)
 github にもどる。左下に空白の部分があるので、
 summary に名前、 descliption に説明を書く(適当でいい?)
-commit to first を押す。さらに push origin (右上)を押すと
+commit to first を押す。
+github にno local change になっている
+さらに push origin を押すと
 変更結果が blanch に反映される
 (ブラウザ版を開くとわかる)
 
