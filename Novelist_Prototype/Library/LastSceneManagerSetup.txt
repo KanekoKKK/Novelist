@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ShopScene_Goto.unity
+- path: Assets/Scenes/StageScene_Suziki.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
