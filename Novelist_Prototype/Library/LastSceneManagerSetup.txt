@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/BookScene_Ito.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
