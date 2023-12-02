@@ -28,7 +28,8 @@ planeの大きさを変更したり、自由に作っていいです
 
 ### clone
 GitHub Desktopのfileからclone repositoryでNovelistのクローンを作成する。  
-赤い警告文が出てきた場合、ローカルレポジトリの名前をinitializeGitLFSのポップアップが出たら押す(よくわかっていない)
+赤い警告文が出てきた場合、ローカルレポジトリの名前を変更すると治ります  
+initializeGitLFSのポップアップが出たら押す(よくわかっていない)  
 
 ### blanch
 githubのblanchの欄を開きnew blanchでblanchを作成する。(毎回必ず行う)  
